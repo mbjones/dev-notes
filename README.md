@@ -1,4 +1,4 @@
-# Development notes on NCEAS development
+# NCEAS development notes
 
 Considerations on approaches to reorganizing ouor development workflow to learn from Git-Flow and
 other models.  One approach:
